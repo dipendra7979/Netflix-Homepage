@@ -3,9 +3,6 @@
 <h1 align="center">Netflix Landing Page🍿🎞️</h1>
 </p>
 
-<h4 align="center">
-<a href="https://gustavojuvino.github.io/NetflixClone/">Netflix Clone Website</a></h4>
-
 
 <img src = "./Imgs2/netflixclone.gif" title="img1"></img>
 
